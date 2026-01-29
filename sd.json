@@ -1,6 +1,6 @@
 
 [
-  { "barcode": "PAC7SD3-44", "name": "Vishal Mehra" },
-  { "barcode": "PAC7SD3-45", "name": "Anita" }
+  { "id": "PAC7SD3-44", "name": "Vishal Mehra" },
+  { "id": "PAC7SD3-45", "name": "Anita" }
 ]
 
